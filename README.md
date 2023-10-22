@@ -12,8 +12,6 @@
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" title="Linkedin" />](https://linkedin.com/in/gonzalostoll)
 [<img src="https://skillicons.dev/icons?i=codepen" alt="Codepen" title="Codepen" />](https://codepen.com/gonstoll)
 
-<br/>
-
 ### Languages and tools I use
 
 [<img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" title="Neovim" />](https://neovim.io/)
