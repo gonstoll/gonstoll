@@ -32,3 +32,8 @@
 [<img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />](https://expressjs.com/)
 [<img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" />](https://jestjs.io/)
 [<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />](https://git-scm.com/)
+
+### Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
