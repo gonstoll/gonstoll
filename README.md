@@ -36,4 +36,8 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Type safe environment variables](https://www.gonzalostoll.com/blog/type-safe-environment-variables)
+- [Type safe object keys](https://www.gonzalostoll.com/blog/type-safe-object-keys)
+- [Avoid impossible states with Typescript](https://www.gonzalostoll.com/blog/avoid-impossible-states-with-Typescript)
+- [Identity functions and how we can make use of them](https://www.gonzalostoll.com/blog/identity-functions-and-how-we-can-make-use-of-them)
 <!-- BLOG-POST-LIST:END -->
