@@ -1,7 +1,7 @@
 ## Hi there! I'm Gonzalo, a Senior Frontend Developer based in Copenhagen, Denmark.
 
-- 🔭 I’m currently working in [Workday](https://workday.com)
-- 🌱 I'm currently learning a lot from [EpicWeb](https://epicweb.dev)
+- 🔭 Working at [Workday](https://workday.com)
+- 🌱 Learning a lot from [EpicWeb](https://epicweb.dev)
 - ⚡ Fun fact: I own 5 mechanical keyboards
 
 ### Connect with me
