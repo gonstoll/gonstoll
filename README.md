@@ -34,7 +34,6 @@ I'm Gonzalo, a Senior Frontend Developer from Argentina, based in Copenhagen, De
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Type safe environment variables](https://www.gonzalostoll.com/blog/type-safe-environment-variables)
 - [Type safe object keys](https://www.gonzalostoll.com/blog/type-safe-object-keys)
 - [Avoid impossible states with Typescript](https://www.gonzalostoll.com/blog/avoid-impossible-states-with-Typescript)
